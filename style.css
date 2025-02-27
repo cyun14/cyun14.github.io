@@ -1,0 +1,36 @@
+body {
+  background-color: #000000; /* Set the background color to blue (you can use any color code or name) */
+  color: black; /* Optional: Change text color for better contrast */
+  font-family: Arial, sans-serif; /* Optional: Change font */
+  margin: 0;
+  padding: 0;
+  height: 100vh; /* Ensure the background color covers the entire page */
+}
+
+h1 {
+  text-align: center; /* Center the heading */
+}
+
+p {
+  font-size: 18px; /* Adjust the paragraph font size */
+}
+
+
+/* Apply the imported font */
+body {
+  font-family: 'Roboto', sans-serif;  /* Use Roboto font */
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  color: #FFFFFF
+;
+}
+
+h1 {
+  font-weight: 700; /* Bold weight for heading */
+}
+
+p {
+  font-weight: 400; /* Normal weight for paragraph */
+}
